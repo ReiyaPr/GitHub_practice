@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 Hello World!
 Good Afternoon
 Good bye!
-
+Hello world!
+Good Bye!
